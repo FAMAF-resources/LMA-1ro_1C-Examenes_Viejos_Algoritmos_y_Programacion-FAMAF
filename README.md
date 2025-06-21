@@ -16,6 +16,10 @@ Agradecemos el compartir o aportar! 👍
 
 https://github.com/FAMAF-resources/Welcome
 
+## Exámenes de LMA
+
+https://github.com/FAMAF-resources/LMA_ExamenesViejos-FAMAF
+
 ## Para obtener unicamente de LMA
 
 https://github.com/orgs/FAMAF-resources/repositories?language=&q=lma+sort%3Aname-asc&sort=
